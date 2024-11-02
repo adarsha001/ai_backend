@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Global Climate Summit Yields New Commitments",
+      "description": "World leaders gather at the annual climate summit to discuss urgent action against global warming. Countries committed to cutting emissions and investing in renewable energy sources.",
+      "image": "https://pisco.meaww.com/c686aab8-7613-4fef-8ec0-981376f31d84.jpg",
+      "author": "Jane Doe",
+      "date": "2024-10-29",
+      "source": "Global News Network",
+      "category": "Environment",
+      "url": "https://example.com/climate-summit"
+    },
+    {
+      "id": 2,
+      "title": "Breakthrough in Artificial Intelligence Achieved",
+      "description": "Scientists announce a major breakthrough in AI technology that promises advancements in healthcare, automation, and data processing.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.79CVC8tVmoqHDFRbVqhIdgHaE8&pid=Api&P=0&h=220",
+      "author": "John Smith",
+      "date": "2024-10-30",
+      "source": "Tech Daily",
+      "category": "Technology",
+      "url": "https://example.com/ai-breakthrough"
+    },
+    {
+      "id": 3,
+      "title": "Sports Legend Retires After Two Decades",
+      "description": "After a 20-year career, sports legend Alex Morgan announces retirement. Fans and players around the world celebrate her achievements.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.79CVC8tVmoqHDFRbVqhIdgHaE8&pid=Api&P=0&h=220",
+      "author": "Emma Brown",
+      "date": "2024-11-01",
+      "source": "Sports Weekly",
+      "category": "Sports",
+      "url": "https://example.com/alex-morgan-retires"
+    },
+    {
+      "id": 4,
+      "title": "New Species Discovered in the Amazon Rainforest",
+      "description": "Biologists uncover a new species of frog in the depths of the Amazon. This discovery highlights the rich biodiversity that the rainforest holds.",
+      "image": "https://example.com/images/amazon_frog.jpg",
+      "author": "Sophia Lee",
+      "date": "2024-11-02",
+      "source": "Nature News",
+      "category": "Science",
+      "url": "https://example.com/new-amazon-species"
+    },
+    {
+      "id": 5,
+      "title": "Stock Market Hits Record High",
+      "description": "The stock market reached a record high today, driven by strong earnings reports and positive economic data. Investors are optimistic about future growth.",
+      "image": "https://example.com/images/stock_market.jpg",
+      "author": "Mike Adams",
+      "date": "2024-10-31",
+      "source": "Financial Times",
+      "category": "Finance",
+      "url": "https://example.com/stock-market-high"
+    }
+  ]
+  
